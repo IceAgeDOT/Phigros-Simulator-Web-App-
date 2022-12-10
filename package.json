@@ -2,7 +2,7 @@
   "name": "phi-chart-render",
   "description": "A Phigros chart render based on Pixi.js",
   "version": "0.0.1-beta14",
-  "author": "MisaLiu",
+  "author": "MisaLiu feat. IceAge",
   "files": [
     "src"
   ],
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MisaLiu/phi-chart-render.git"
+    "url": "https://github.com/IceAgeDOT/Phigros-Simulator-Web-App-.git"
   },
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/MisaLiu/phi-chart-render/issues"
+    "url": "https://github.com/IceAgeDOT/Phigros-Simulator-Web-App-/issues"
   },
-  "homepage": "https://github.com/MisaLiu/phi-chart-render",
+  "homepage": "https://github.com/IceAgeDOT/Phigros-Simulator-Web-App-",
   "devDependencies": {
     "@sentry/browser": "^7.21.1",
     "@sentry/tracing": "^7.21.1",
